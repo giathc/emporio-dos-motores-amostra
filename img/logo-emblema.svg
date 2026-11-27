@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <!-- Mesmo logo, com fundo azul-escuro, para o emblema da tampa da caixa de ligação no motor 3D e para o ícone da aba. -->
+  <rect width="64" height="64" fill="#0b1230"/>
+  <circle cx="32" cy="32" r="27.5" fill="none" stroke="#f4f6fb" stroke-width="2.8"/>
+  <g fill="#f4f6fb">
+    <circle cx="32" cy="10.8" r="3.8" fill="#f5b921"/>
+    <circle cx="45.63" cy="15.76" r="3.8"/>
+    <circle cx="52.88" cy="28.32" r="3.8"/>
+    <circle cx="50.36" cy="42.6" r="3.8"/>
+    <circle cx="39.25" cy="51.92" r="3.8"/>
+    <circle cx="24.75" cy="51.92" r="3.8"/>
+    <circle cx="13.64" cy="42.6" r="3.8"/>
+    <circle cx="11.12" cy="28.32" r="3.8"/>
+    <circle cx="18.37" cy="15.76" r="3.8"/>
+  </g>
+  <circle cx="32" cy="32" r="14.5" fill="#1f4f8f" stroke="#f4f6fb" stroke-width="1.9"/>
+  <path fill="#f4f6fb" d="M26 23.2h12.4v3.7H30v3.4h7.2v3.6H30v3.4h8.4v3.7H26z"/>
+</svg>

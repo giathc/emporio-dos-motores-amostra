@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Empório dos Motores">
+  <!-- Proposta de logo: a mesma ideia do atual (rolamento com o E no centro), em traço limpo. -->
+  <!-- pista externa do rolamento -->
+  <circle cx="32" cy="32" r="29.5" fill="none" stroke="#f4f6fb" stroke-width="3"/>
+  <!-- esferas: nove, uma em amarelo como a que está passando pela carga -->
+  <g fill="#f4f6fb">
+    <circle cx="32" cy="9.2" r="4.1" fill="#f5b921"/>
+    <circle cx="46.66" cy="14.53" r="4.1"/>
+    <circle cx="54.45" cy="28.04" r="4.1"/>
+    <circle cx="51.75" cy="43.4" r="4.1"/>
+    <circle cx="39.8" cy="53.42" r="4.1"/>
+    <circle cx="24.2" cy="53.42" r="4.1"/>
+    <circle cx="12.25" cy="43.4" r="4.1"/>
+    <circle cx="9.55" cy="28.04" r="4.1"/>
+    <circle cx="17.34" cy="14.53" r="4.1"/>
+  </g>
+  <!-- pista interna com o E da Empório -->
+  <circle cx="32" cy="32" r="15.6" fill="#1f4f8f" stroke="#f4f6fb" stroke-width="2"/>
+  <path fill="#f4f6fb" d="M25.6 22.6h13.2v3.9h-8.9v3.6h7.6v3.8h-7.6v3.6h8.9v3.9H25.6z"/>
+</svg>
